@@ -1,8 +1,8 @@
 $:.push File.expand_path('../lib', __FILE__)
-require 'e6/promise/rails/version'
+require 'es6/promise/rails/version'
 
 Gem::Specification.new do |s|
-  s.name          = 'e6-promise-rails'
+  s.name          = 'es6-promise-rails'
   s.version       = E6::Promise::Rails::VERSION
   s.authors       = ['Leonid Beder']
   s.email         = ['leonid.beder@gmail.com']
