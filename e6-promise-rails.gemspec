@@ -3,7 +3,7 @@ require 'e6/promise/rails/version'
 
 Gem::Specification.new do |s|
   s.name          = 'e6-promise-rails'
-  s.version       = Jquery::Screenfull::Rails::VERSION
+  s.version       = E6::Promise::Rails::VERSION
   s.authors       = ['Leonid Beder']
   s.email         = ['leonid.beder@gmail.com']
   s.license       = 'MIT'
