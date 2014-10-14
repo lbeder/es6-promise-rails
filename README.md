@@ -12,7 +12,7 @@ gem 'es6-promise-rails'
 Add it to your JavaScript manifest file:
 
 ``` js
-//= require promise
+//= require es6-promise
 ```
 
 ## License
